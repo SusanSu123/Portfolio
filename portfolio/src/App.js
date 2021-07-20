@@ -4,7 +4,6 @@ import './App.css';
 
 import Navigation from "./components/Navbar";
 import About from "./components/About";
-import Skill from "./components/Skill";
 import Project from "./components/Project";
 // import Testimonials from "./components/Testimonials";
 
@@ -18,8 +17,7 @@ function App() {
         <a href="/about" id="btn">View my work</a>
       </header>
       <Navigation />
-      <About />
-      <Skill />
+      {/* <About /> */}
       <Project />
       <footer id="contact">
         <nav>
