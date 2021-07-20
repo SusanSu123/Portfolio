@@ -3,6 +3,10 @@
 ## Overview
 Create a portfolio using React skills
 
+## Deployment
+### GitHub repository: https://github.com/SusanSu123/Portfolio.git
+### Deploy on Git Hub: http://SusanSu123.github.io/Portfolio
+
 
 ## User Story
 
@@ -41,3 +45,10 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
+
+
+## Demo
+<img src="./src/assets/Images/one.png" alt="demo1"></img>
+<img src="./src/assets/Images/two.png" alt="demo2"></img>
+<img src="./src/assets/Images/three.png" alt="demo3"></img>
+<img src="./src/assets/Images/four.png" alt="demo4"></img>

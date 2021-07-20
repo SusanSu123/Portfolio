@@ -16,7 +16,7 @@ function App() {
 
         <h1>Hello, I'm Susan Su</h1>
         <p>I'm a full-stack developer</p>
-        <a href="#about" id="btn">View my work</a>
+        <a href={"#about"} id="btn">View my work&rarr;</a>
       </header>
       <Navigation />
       <About />
