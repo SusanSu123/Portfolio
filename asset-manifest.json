@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e5abad71.chunk.css",
+    "main.js": "/Portfolio/static/js/main.a2b4dfb5.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.a2b4dfb5.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.22b9ebe3.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.22b9ebe3.js.map",
+    "static/js/2.fc950e5a.chunk.js": "/Portfolio/static/js/2.fc950e5a.chunk.js",
+    "static/js/2.fc950e5a.chunk.js.map": "/Portfolio/static/js/2.fc950e5a.chunk.js.map",
+    "static/js/3.6e256146.chunk.js": "/Portfolio/static/js/3.6e256146.chunk.js",
+    "static/js/3.6e256146.chunk.js.map": "/Portfolio/static/js/3.6e256146.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.e5abad71.chunk.css.map": "/Portfolio/static/css/main.e5abad71.chunk.css.map",
+    "static/js/2.fc950e5a.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.fc950e5a.chunk.js.LICENSE.txt",
+    "static/media/Project1.ede777d0.png": "/Portfolio/static/media/Project1.ede777d0.png",
+    "static/media/Scheduler.7d4a8374.png": "/Portfolio/static/media/Scheduler.7d4a8374.png",
+    "static/media/Weather.43550551.png": "/Portfolio/static/media/Weather.43550551.png",
+    "static/media/Web Developer Resume.b2a11591.pdf": "/Portfolio/static/media/Web Developer Resume.b2a11591.pdf",
+    "static/media/notetaker.7d41cc83.png": "/Portfolio/static/media/notetaker.7d41cc83.png",
+    "static/media/photo.7ff5becc.jpg": "/Portfolio/static/media/photo.7ff5becc.jpg",
+    "static/media/techblog.1eb209de.png": "/Portfolio/static/media/techblog.1eb209de.png",
+    "static/media/warehouse.8543389e.png": "/Portfolio/static/media/warehouse.8543389e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22b9ebe3.js",
+    "static/js/2.fc950e5a.chunk.js",
+    "static/css/main.e5abad71.chunk.css",
+    "static/js/main.a2b4dfb5.chunk.js"
+  ]
+}
