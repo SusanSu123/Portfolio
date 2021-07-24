@@ -2,8 +2,8 @@
 Create a portfolio using React skills
 
 ## Deployment
-### GitHub repository: https://github.com/SusanSu123/Portfolio.git
-### Deploy on Git Hub: https://github.com/SusanSu123/React-Portfolio.git
+* GitHub repository: https://github.com/SusanSu123/Portfolio.git
+* Deploy on Git Hub: https://github.com/SusanSu123/React-Portfolio.git
 
 
 ## User Story
